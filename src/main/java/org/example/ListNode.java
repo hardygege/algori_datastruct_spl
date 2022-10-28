@@ -2,6 +2,10 @@ package org.example;
 
 import java.util.Stack;
 
+
+/**
+ * 单链表
+ */
 public class ListNode {
 
     int val = 0;

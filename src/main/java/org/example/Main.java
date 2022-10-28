@@ -7,9 +7,12 @@ public class Main {
 
         BasicAlgorithm algorithm = new BasicAlgorithm();
         //algorithm.changeVariable();
-        new FibonacciTest().test();
+        //new FibonacciTest().test();
 
 //        ListNode.test();
+
+        TreeNode.TreeHelper treeHelper = new TreeNode.TreeHelper();
+        treeHelper.test();
     }
 
 

@@ -6,10 +6,10 @@ public class Main {
 
 
         BasicAlgorithm algorithm = new BasicAlgorithm();
-        algorithm.changeVariable();
-
+        //algorithm.changeVariable();
         new FibonacciTest().test();
 
+//        ListNode.test();
     }
 
 
